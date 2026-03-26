@@ -1,8 +1,4 @@
 # 🎮 Scratch Game
+# This Game I Create It With Scratch 
 
-دي لعبة أنا عاملها باستخدام Scratch
-
-## طريقة التشغيل
-- نزّل الملف
-- افتحه على Scratch
-- العب 😄
+[▶️ Play the Game](https://scratch.mit.edu/projects/123456789)
